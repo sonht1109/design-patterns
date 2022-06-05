@@ -1,6 +1,7 @@
 package _Builder;
 
 /**
+ * creational
  * Dùng để xây dựng một đối tượng phức tạp bằng cách sử dụng các đối tượng đơn
  * giản và tiếp cận từng bước
  * Các thành phần chính: Director(Client), Builder, ConcreteBuilder, Product

@@ -1,6 +1,7 @@
 package _Singleton;
 
 /**
+ * creational
  * Hạn chế việc khởi tạo một lớp, đảm bảo mỗi lớp chỉ có 1 instance đang tồn tại
  * Lớp singleton phải cung cấp 1 điểm truy cập toàn cục để lấy instance của lớp
  * => dùng cho Shared resource, Logger, Configuration, Caching, Thread pool, ...
