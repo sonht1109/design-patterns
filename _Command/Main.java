@@ -10,6 +10,7 @@ public class Main {
 
     Light light = new Light();
     Invoker invoker = new Invoker();
+    
     TurnOnCommand onCommand = new TurnOnCommand(light);
     TurnOffCommand offCommand = new TurnOffCommand(light);
 
