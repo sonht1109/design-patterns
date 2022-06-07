@@ -13,7 +13,7 @@ public class Main {
     container.addItem("Item 3");
 
     Iterator<String> iterator = container.getIterator();
-    while(iterator.hasNext()) {
+    while(iterator.hasNext()) { 
       System.out.println(iterator.next());
     }
   }
